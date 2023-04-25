@@ -1,9 +1,6 @@
-# ReScienceC-reviews
-Reviews for ReScience C
+:warning: **Please don't submit bug reports here. Instead please submit them to [the ReScience C repo](https://github.com/ReScience/ReScienceC/issues)** :warning:
 
-:warning: **Please don't submit bug reports for ReScience C here. Instead please submit them to [the ReScience C repo](https://github.com/ReScience/ReScienceC/issues)** :warning:
-
-# Reviews for the Journal of Open Source Software
+# Reviews for ReScience C
 
 This is the GitHub repository used to track the progress of reviews for ReScience C. You can view the papers currently in review [here](https://github.com/ReScience/ReScienceC-reviews/issues).
 
